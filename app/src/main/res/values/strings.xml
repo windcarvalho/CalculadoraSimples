@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraSimples</string>
+    <string name="oper1">Operador 1:</string>
+    <string name="oper2">Operador 2:</string>
+    <string name="oper">Operação :</string>
+    <string name="buttonCalc">Calcular</string>
+    <string name="res">0000</string>
+    <string name="contDec"> Imagem de Dinheiro</string>
+</resources>
